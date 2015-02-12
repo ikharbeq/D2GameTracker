@@ -1,0 +1,10 @@
+C:\Users\Clemens\documents\visual studio 2010\Projects\Connectionfinder4\Connectionfinder4\bin\Release\Connectionfinder4.exe
+C:\Users\Clemens\documents\visual studio 2010\Projects\Connectionfinder4\Connectionfinder4\bin\Release\Connectionfinder4.pdb
+C:\Users\Clemens\documents\visual studio 2010\Projects\Connectionfinder4\Connectionfinder4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Clemens\documents\visual studio 2010\Projects\Connectionfinder4\Connectionfinder4\obj\x86\Release\Connectionfinder4.exe
+C:\Users\Clemens\documents\visual studio 2010\Projects\Connectionfinder4\Connectionfinder4\obj\x86\Release\Connectionfinder4.pdb
+C:\Users\Clemens\Documents\Visual Studio 2010\Projects\Connectionfinder4\D2GameTracker\Connectionfinder4\bin\Release\Connectionfinder4.exe
+C:\Users\Clemens\Documents\Visual Studio 2010\Projects\Connectionfinder4\D2GameTracker\Connectionfinder4\bin\Release\Connectionfinder4.pdb
+C:\Users\Clemens\Documents\Visual Studio 2010\Projects\Connectionfinder4\D2GameTracker\Connectionfinder4\obj\x86\Release\Connectionfinder4.exe
+C:\Users\Clemens\Documents\Visual Studio 2010\Projects\Connectionfinder4\D2GameTracker\Connectionfinder4\obj\x86\Release\Connectionfinder4.pdb
+C:\Users\Clemens\Documents\Visual Studio 2010\Projects\Connectionfinder4\D2GameTracker\Connectionfinder4\obj\x86\Release\Connectionfinder4.csprojResolveAssemblyReference.cache
